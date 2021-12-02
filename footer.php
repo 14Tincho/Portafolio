@@ -1,7 +1,7 @@
 <footer class="footer">
     <div class="container">
             <p>
-            Copyright © 2020. <a href="#home">@MartínCalozo</a> <br>
+            Copyright © 2021. <a href="#home">@MartínCalozo</a> <br>
             All Rights Reserved
             </p>
     </div>

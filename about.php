@@ -4,15 +4,15 @@
         <div class="section-underline"></div>
         <div class="about-grid">
             <div class="about-description">
-                <h3>Who am I?</h3>
-                <h2>I'm Diego Briceño, a Tech passionate and Web Developer</h2>
+                <h3>¿Quién soy yo?</h3>
+                <h2>Yo soy Martín Calozo, un apasionado por la programacion</h2>
                 <p>
-                    I am a freelancer based in Lima - Peru and i have been building
-                    noteworthy websites for the last year, which comply with the
-                    latest design trends. I help convert a vision and an idea into
-                    meaningful and useful products.
+                    Soy un estudiante de Rosario - Argentina y tengo 22 años de edad. Estuve contruyendo sitios web en los últimos años, 
+                    estudio ingles y trabajo en el área de sistemas de la empresa Sport78. Una gran empresa de Rosario
+                    que vende sus articulos por toda la Argentina. Mis estudios en programacion los consegui en Educacion IT.
+                    Conocimiento en Front-End y Back-End
                 </p>
-                <a class="button-cta" href="./assets/Diego Briceno.pdf" download="Diego Briceño CV" target="_blank" rel="noopener noreferrer" data-sr-id="14" style="visibility: visible; opacity: 1; transition: opacity 0.6s cubic-bezier(0.5, 0, 0, 1) 0.55s;">
+                <a class="button-cta" href="./assets/C.V.Martín Calozo.pdf" download="Martin Calozo CV" target="_blank" rel="noopener noreferrer" data-sr-id="14" style="visibility: visible; opacity: 1; transition: opacity 0.6s cubic-bezier(0.5, 0, 0, 1) 0.55s;">
                     <i class="fas fa-file-download" aria-hidden="true"></i> Download CV
                 </a>
             </div>
@@ -45,8 +45,8 @@
                     <div class="skill-name">SQL</div>
                 </div>
                 <div class="skill-item">
-                    <i class="fab fa-git-alt" aria-hidden="true"></i>
-                    <div class="skill-name">GIT</div>
+                    <i class="fab fa-python" aria-hidden="true"></i>
+                    <div class="skill-name">PYTHON</div>
                 </div>
                 <div class="skill-item">
                     <i class="fab fa-php" aria-hidden="true"></i>
